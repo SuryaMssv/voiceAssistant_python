@@ -1,0 +1,21 @@
+if 'open' site in query
+if 'wikipedia' in query
+if 'chat mode' in query or 'chat with' in query !!
+if 'play music' in query
+if 'the time' in query
+if 'open my downloads' in query
+if 'terminate' in query or 'bye' in query or 'sleep' in query
+if 'shutdown' in query
+if 'clear all apps' in query
+if 'take a note' in query
+if 'recall that note' in query
+if 'location in web' in query
+if 'clear chat' in query
+if 'driver' in query
+if 'send a mail' in query
+if 'stop music' in query
+if 'screenshot' in query
+if 'close current program' in query
+if 'in google' in query
+if 'navigate me' in query
+for app in apps
